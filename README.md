@@ -1,6 +1,6 @@
-<!-- ## Hi there 👋
-
-
+## Hi there 👋
+I'm a GIS developer and a surveying engineer interested in open-source and Linux development. 
+<!-- 
 **trkrgrcn/trkrgrcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
