@@ -1,17 +1,33 @@
 ## Hi there 👋
 I'm a GIS developer and a surveying engineer interested in open-source and Linux development. 
-<!-- 
-**trkrgrcn/trkrgrcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
--->
+    Developing a portal application for smart cities.
+
+🌱 I’m currently learning ...
+
+    C++ for high-performance programming and system-level development.
+
+👯 I’m looking to collaborate on ...
+
+    Projects involving C++, PostgreSQL, or Linux-based systems.
+
+🤔 I’m looking for help with ...
+
+    Open-source GIS (Geographic Information System) projects.
+
+💬 Ask me about ...
+
+    PostgreSQL database optimization and management.
+    Linux system administration and troubleshooting.
+
+📫 How to reach me:
+
+    Email: [turker.gurcan@yandex.com.tr]
+    LinkedIn: [linkedin.com/in/turkergurcan]
+    GitHub: [github.com/trkrgrcn]
+
+⚡ Fun fact:
+
+    Did you know that GIS technology is used in everything from disaster response to optimizing delivery routes?- 
